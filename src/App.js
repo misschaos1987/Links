@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import { Linktree, CHANNEL_TYPES } from 'linkees';
 import './App.css';
 

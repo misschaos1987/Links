@@ -1,57 +1,70 @@
-<table>
-<tr >
-    <th><img src="https://s3.us-east-2.amazonaws.com/fueler.io-images/fueler-creatons/ZO3GUmNNWMJL8vuRQMQIDs7ConJCktJOOo0xTjgr.png" width="50px" height="50px" style="display:inline-block; "/></th>
-    <th><h1>&ensp;Linkees</h1></th>
-</tr>
-</table>
+# Getting Started with Create React App
 
-[![Generic badge](https://img.shields.io/badge/BUILD-Success-<COLOR>.svg?logo=github)](https://vercel.com/heysagnik/bio/deployments) [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/heysagnik.svg?style=social&label=Follow%20%40heysagnik)](https://twitter.com/heysagnik)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## About 🎯
+## Available Scripts
 
-A beautiful Single Page Web App made with React to display all your important social links for your followers (Alternative to linktr.ee).
+In the project directory, you can run:
 
-![Screenshot](https://api.microlink.io/?url=https://heysagnik.vercel.app&screenshot=true&meta=false&embed=screenshot.url&waitForTimeout=1500&type=jpeg&overlay.browser=dark&overlay.background=linear-gradient%28225deg%2C+%23FF057C+0%25%2C+%238D0B93+50%25%2C+%23321575+100%25%29)
+### `npm start`
 
-## How to use ?🤔
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-1. Install the linkees package
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-```
-npm install --save linkees
-```
+### `npm test`
 
-2. Import linkees component from linkees package in your react app
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-```
-import { Linkees } from 'linkees';
-```
+### `npm run build`
 
-3. Create a config for your links
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-```
-[
-  {
-    title: //title of the link card
-    subtitle: //subtitle of the link card
-    link: //URL
-    channel: //use default channels
-    image: //card's custom image url
-  }
-]
-```
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-> Example can be found in `src/index.tsx`
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-4. Deploy to Vercel or any other platform and Enjoy!
-  
-   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fheysagnik%2FLinkees)
+### `npm run eject`
 
-#### We also support ***Docker 🐳*** .For more details read [this](https://github.com/heysagnik/Linkees/blob/master/docker.md). 
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-## Contributing 📝
-We always welcome contributions; big or small, it can be documentation updates, adding new checks or something bigger. Please check the Contributing Guide for details on how to help out.
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-#### Made with 💚 by Crazy Open-Source developers:
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-<img width="200" src="https://contrib.rocks/image?repo=heysagnik/Linkees" />
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
