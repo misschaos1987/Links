@@ -1,10 +1,26 @@
 {
   "files": {
-    "main.js": "/links/static/js/main.155a91fe.js",
+    "main.css": "/links/static/css/main.9611e306.css",
+    "main.js": "/links/static/js/main.a7b3b8be.js",
+    "static/js/787.274916c3.chunk.js": "/links/static/js/787.274916c3.chunk.js",
+    "static/media/avatar.jpeg": "/links/static/media/avatar.6240e0fa9ae4fdf2d173.jpeg",
+    "static/media/instagram.png": "/links/static/media/instagram.a0b6eb5ee109a787e2cc.png",
+    "static/media/pornhub.png": "/links/static/media/pornhub.1d3f510e4581cb634f97.png",
+    "static/media/telegram.png": "/links/static/media/telegram.747f93fdc725b876d4b8.png",
+    "static/media/onlyfans.png": "/links/static/media/onlyfans.3d56d9fcd4376c560d08.png",
+    "static/media/linkedin.jpg": "/links/static/media/linkedin.2c77993107c982a8b050.jpg",
+    "static/media/dribbble.png": "/links/static/media/dribbble.e58c38f6ac130252b4e9.png",
+    "static/media/website.png": "/links/static/media/website.61d0913f017058764c9e.png",
+    "static/media/github.png": "/links/static/media/github.8962f6f4e4be384ec9a4.png",
+    "static/media/cammodels.png": "/links/static/media/cammodels.ef250a443f67cfa28f2b.png",
+    "static/media/twitter.png": "/links/static/media/twitter.fbc3caefb90aa275ae4e.png",
     "index.html": "/links/index.html",
-    "main.155a91fe.js.map": "/links/static/js/main.155a91fe.js.map"
+    "main.9611e306.css.map": "/links/static/css/main.9611e306.css.map",
+    "main.a7b3b8be.js.map": "/links/static/js/main.a7b3b8be.js.map",
+    "787.274916c3.chunk.js.map": "/links/static/js/787.274916c3.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.155a91fe.js"
+    "static/css/main.9611e306.css",
+    "static/js/main.a7b3b8be.js"
   ]
 }
